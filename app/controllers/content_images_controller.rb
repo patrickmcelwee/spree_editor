@@ -6,4 +6,4 @@ class ContentImagesController < Spree::BaseController
     render :text => @content_image.attachment.url
   end
 
-en
+end
